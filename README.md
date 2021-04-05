@@ -17,7 +17,7 @@ Exple: Vous bossez dans une grande boite avec 3, 4 data scientists mais chacun v
 # Mlflow Tracking
 
 Ceci est le premier composant de MLflow. Il nous aidera a sauvegarder, requéter tous nos modèles de machine learning que nous avons entrainé. On peut accéder a ce composant soit via une API en ligne de commande ou une interface graphique.
-Dans cette interface graphique on trouvera les infos sur nos modèles entrainés (métriques , hyperparamètres, nom du modèle, taille des données,...)
+Dans cette interface graphique on trouvera les infos sur nos modèles entrainés (date, utilisateurs,métriques , hyperparamètres, nom du modèle, taille des données,...)
 
 ![image5](https://user-images.githubusercontent.com/48319188/113626126-0f255b80-9662-11eb-8d6e-e3550e5254cf.jpg)
 
