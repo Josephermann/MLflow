@@ -20,3 +20,5 @@ Ceci est le premier composant de MLflow. Il nous aidera a sauvegarder, requéter
 Dans cette interface graphique on trouvera les infos sur nos modèles entrainés (métriques , hyperparamètres, nom du modèle, taille des données,...)
 
 ![image5](https://user-images.githubusercontent.com/48319188/113626126-0f255b80-9662-11eb-8d6e-e3550e5254cf.jpg)
+
+<img width="1107" alt="oss_registry_1_register" src="https://user-images.githubusercontent.com/48319188/113626319-4bf15280-9662-11eb-91b0-3362d1a05b20.png">
