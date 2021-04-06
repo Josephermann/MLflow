@@ -51,3 +51,5 @@ C'est un endroit ou on va stocker l'intégralité des API, des modèles pour man
 - Cela permet une gestion centralisée de tous les modèles en production au sein de l'entreprise. 
 - On a une meilleure gestion du versionning
 - On peut faire un staging qui nous permet de connaitre l'étape actuelle du modèle
+
+<img width="1107" alt="registry" src="https://user-images.githubusercontent.com/48319188/113754562-a72d4e80-970f-11eb-97c5-64edd193725f.png">
