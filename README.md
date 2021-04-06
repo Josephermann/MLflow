@@ -57,3 +57,6 @@ C'est un endroit ou on va stocker  des modèles pour manager leur cycle de vie.
 <img width="1106" alt="registry2" src="https://user-images.githubusercontent.com/48319188/113754825-ebb8ea00-970f-11eb-9831-99b27653a9aa.png">
 
 <img width="1105" alt="registry3" src="https://user-images.githubusercontent.com/48319188/113755142-43efec00-9710-11eb-810b-d6330026b1d4.png">
+
+
+![registry5](https://user-images.githubusercontent.com/48319188/113755368-887b8780-9710-11eb-92c9-fd43916353b6.png)
