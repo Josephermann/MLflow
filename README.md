@@ -47,12 +47,13 @@ Cette composante nous permet de packager les modèles de machine learning pour p
 
 # MLflow Model Registry
 
-C'est un endroit ou on va stocker l'intégralité des API, des modèles pour manager leur cycle de vie. 
+C'est un endroit ou on va stocker  des modèles pour manager leur cycle de vie. 
 - Cela permet une gestion centralisée de tous les modèles en production au sein de l'entreprise. 
 - On a une meilleure gestion du versionning
 - On peut faire un staging qui nous permet de connaitre l'étape actuelle du modèle
 
 <img width="1107" alt="registry" src="https://user-images.githubusercontent.com/48319188/113754562-a72d4e80-970f-11eb-97c5-64edd193725f.png">
 
-
 <img width="1106" alt="registry2" src="https://user-images.githubusercontent.com/48319188/113754825-ebb8ea00-970f-11eb-9831-99b27653a9aa.png">
+
+<img width="1105" alt="registry3" src="https://user-images.githubusercontent.com/48319188/113755142-43efec00-9710-11eb-810b-d6330026b1d4.png">
