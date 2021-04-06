@@ -38,6 +38,9 @@ Dans le fichier yaml qui represente le projet on trouvera:
 - l'environnement ( soit une image docker)
 - les entry_points
 
+
+![MLproject](https://user-images.githubusercontent.com/48319188/113754265-587fb480-970f-11eb-8131-5288f1fdffdd.png)
+
 # MLflow Models
 
 Cette composante nous permet de packager les modèles de machine learning pour pouvoir les utiliser via des services API ou sur les clusters pour faire des prédictions.
