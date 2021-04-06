@@ -44,6 +44,7 @@ Dans le fichier yaml qui represente le projet on trouvera:
 # MLflow Models
 
 Cette composante nous permet de packager les modèles de machine learning pour pouvoir les utiliser via des services API ou sur les clusters pour faire des prédictions.
+![experiments2](https://user-images.githubusercontent.com/48319188/113755783-00e24880-9711-11eb-8a9e-87ffea191370.png)
 
 # MLflow Model Registry
 
