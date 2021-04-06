@@ -53,3 +53,6 @@ C'est un endroit ou on va stocker l'intégralité des API, des modèles pour man
 - On peut faire un staging qui nous permet de connaitre l'étape actuelle du modèle
 
 <img width="1107" alt="registry" src="https://user-images.githubusercontent.com/48319188/113754562-a72d4e80-970f-11eb-97c5-64edd193725f.png">
+
+
+<img width="1106" alt="registry2" src="https://user-images.githubusercontent.com/48319188/113754825-ebb8ea00-970f-11eb-9831-99b27653a9aa.png">
