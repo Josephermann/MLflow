@@ -15,21 +15,16 @@ MLflow répond à un problème de management des modèles.
 Exple: Vous bossez dans une grande boite avec 3, 4 data scientists mais chacun va entrainer plusieurs modèles qui vont avoir des performences differentes, avec des hyper-paramètres différents. Comment garder une trace de toutes ces expériences ?
 
 # Mlflow Tracking
-
+## Tracking API
 Ceci est le premier composant de MLflow. Il nous aidera a sauvegarder, requéter tous nos modèles de machine learning que nous avons entrainé. On peut accéder a ce composant soit via une API en ligne de commande ou une interface graphique.
 Dans cette interface graphique on trouvera les infos sur nos modèles entrainés (date, utilisateurs,métriques , hyperparamètres, nom du modèle, taille des données,...)
 
 En cliquant sur un run, on obtient plus d'info. Notamment pour les modèles de deep learning on peut avoir l'évolution des métriques à travers le temps.
-
 Et sur un modèle on peut voir les Artifacts, qui sont des fichiers qui vont permettre de sauvegarder par exemple des images, des modèles, des fichiers de données
+
 ![image5](https://user-images.githubusercontent.com/48319188/113626126-0f255b80-9662-11eb-8d6e-e3550e5254cf.jpg)
 
 <img width="1107" alt="oss_registry_1_register" src="https://user-images.githubusercontent.com/48319188/113626319-4bf15280-9662-11eb-91b0-3362d1a05b20.png">
-
-
-## Tracking API
-
-Pour pouvoir loguer toutes les infos, MLflow a  une API qui permet de sauvegarder les expériences de Machine Learning
 
 # Mlflow Projects
 
@@ -51,5 +46,5 @@ Cette composante nous permet de packager les modèles de machine learning pour p
 
 C'est un endroit ou on va stocker l'intégralité des API, des modèles pour manager leur cycle de vie. 
 - Cela permet une gestion centralisée de tous les modèles en production au sein de l'entreprise. 
--On a une meilleure gestion du versionning
-On peut faire un staging qui nous permet de connaitre l'étape actuelle du modèle
+- On a une meilleure gestion du versionning
+- On peut faire un staging qui nous permet de connaitre l'étape actuelle du modèle
